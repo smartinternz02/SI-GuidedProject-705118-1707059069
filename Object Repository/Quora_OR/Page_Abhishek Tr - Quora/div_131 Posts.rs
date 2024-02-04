@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_131 Posts</name>
+   <tag></tag>
+   <elementGuidId>144a802d-8302-40af-9d29-eae2b9a3b2ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div[4]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>505985b3-f7c7-4986-964c-d9490e07fdd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-text qu-dynamicFontSize--small qu-medium</value>
+      <webElementGuid>4d2fdaf8-f6ab-4bde-b819-14373818ecc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>131 Posts</value>
+      <webElementGuid>e202296a-2b89-453a-a5b3-ae995d4ffd21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;q-box qu-mt--small&quot;]/div[@class=&quot;q-box qu-bg--white&quot;]/div[@class=&quot;q-box qu-borderBottom qu-bg--white&quot;]/div[@class=&quot;q-box&quot;]/div[@class=&quot;q-box qu-overflowX--hidden qu-whiteSpace--nowrap&quot;]/div[@class=&quot;q-click-wrapper qu-display--inline-block qu-tapHighlight--white qu-textAlign--left qu-cursor--pointer ClickWrapper___StyledClickWrapperBox-zoqi4f-0 iyYUZT&quot;]/div[@class=&quot;q-text  qu-textAlign--center qu-py--medium qu-px--small qu-color--gray_light qu-hover--cursor--pointer qu-hover--bg--darken qu-hover--color--gray&quot;]/div[@class=&quot;q-relative qu-display--flex&quot;]/div[@class=&quot;q-text qu-dynamicFontSize--small qu-medium&quot;]</value>
+      <webElementGuid>4aaebb3b-f230-4968-adb4-a18223d33a4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div[4]/div/div/div</value>
+      <webElementGuid>44a0d74d-f6f3-4ede-931f-361e4f8206fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/div/div/div</value>
+      <webElementGuid>bec6a6d3-6c0e-4418-8ec4-1014611a8fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '131 Posts' or . = '131 Posts')]</value>
+      <webElementGuid>41c591b1-ddaf-4369-9e8c-d1d2d4bc83ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

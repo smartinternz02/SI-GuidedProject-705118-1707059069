@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile</name>
+   <tag></tag>
+   <elementGuidId>c0cc127f-fbda-46cb-ad68-417c9d66d722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.q-text.qu-dynamicFontSize--small.qu-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40ff7bc4-b1f3-4e74-8457-8110d12f9177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-text qu-dynamicFontSize--small qu-medium</value>
+      <webElementGuid>6e3fd5ec-19b8-49bd-92bd-d82e63599359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile</value>
+      <webElementGuid>bfe15694-6e72-4ac4-b081-bedbfeacc4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;q-box qu-mt--small&quot;]/div[@class=&quot;q-box qu-bg--white&quot;]/div[@class=&quot;q-box qu-borderBottom qu-bg--white&quot;]/div[@class=&quot;q-box&quot;]/div[@class=&quot;q-box qu-overflowX--hidden qu-whiteSpace--nowrap&quot;]/div[@class=&quot;q-click-wrapper qu-display--inline-block qu-tapHighlight--white qu-textAlign--left qu-cursor--pointer ClickWrapper___StyledClickWrapperBox-zoqi4f-0 iyYUZT&quot;]/div[@class=&quot;q-text  qu-textAlign--center qu-py--medium qu-px--small qu-color--gray_light qu-hover--cursor--pointer qu-hover--bg--darken qu-hover--color--gray&quot;]/div[@class=&quot;q-relative qu-display--flex&quot;]/div[@class=&quot;q-text qu-dynamicFontSize--small qu-medium&quot;]</value>
+      <webElementGuid>097454f4-8475-47e5-b680-709f455eef9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>de3c3992-3c40-44dc-8a42-26b1f72b5cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>ea8d8e71-f9fd-4a64-85da-97b0ce1c2bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile' or . = 'Profile')]</value>
+      <webElementGuid>c24784ef-634a-42f1-b530-bd40da21fe7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

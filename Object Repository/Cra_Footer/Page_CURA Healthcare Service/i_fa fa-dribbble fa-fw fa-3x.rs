@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-dribbble fa-fw fa-3x</name>
+   <tag></tag>
+   <elementGuidId>d61ba544-3186-4b36-9daf-173b48b53d21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-dribbble.fa-fw.fa-3x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>41c3f004-23ab-4f0b-99fd-f4245a6b8f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-dribbble fa-fw fa-3x</value>
+      <webElementGuid>1c14eeaf-e349-4ca3-aea8-23a09b901379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-inline&quot;]/li[3]/a[1]/i[@class=&quot;fa fa-dribbble fa-fw fa-3x&quot;]</value>
+      <webElementGuid>699b8e74-4896-4181-baab-e56c948f15b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/i</value>
+      <webElementGuid>08878ef5-8a1a-45b5-9046-17213c2199a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

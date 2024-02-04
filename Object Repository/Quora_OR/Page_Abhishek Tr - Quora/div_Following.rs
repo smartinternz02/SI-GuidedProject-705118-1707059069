@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Following</name>
+   <tag></tag>
+   <elementGuidId>606ab881-29d7-4f34-89a4-230493172fc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1eaa8d7b-b91f-4bb8-8548-1259d126b241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-text qu-dynamicFontSize--small qu-medium</value>
+      <webElementGuid>4f3cd789-a195-4958-a9b5-32a4e4bdc3a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Following</value>
+      <webElementGuid>55ac670b-7cca-4293-881a-ceac1a5ae714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;q-box qu-mt--small&quot;]/div[@class=&quot;q-box qu-bg--white&quot;]/div[@class=&quot;q-box qu-borderBottom qu-bg--white&quot;]/div[@class=&quot;q-box&quot;]/div[@class=&quot;q-box qu-overflowX--hidden qu-whiteSpace--nowrap&quot;]/div[@class=&quot;q-click-wrapper qu-display--inline-block qu-tapHighlight--white qu-textAlign--left qu-cursor--pointer ClickWrapper___StyledClickWrapperBox-zoqi4f-0 iyYUZT&quot;]/div[@class=&quot;q-text  qu-textAlign--center qu-py--medium qu-px--small qu-color--gray_light qu-hover--cursor--pointer qu-hover--bg--darken qu-hover--color--gray&quot;]/div[@class=&quot;q-relative qu-display--flex&quot;]/div[@class=&quot;q-text qu-dynamicFontSize--small qu-medium&quot;]</value>
+      <webElementGuid>05188c5b-587d-4d15-945c-f6904df09158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div[6]/div/div/div</value>
+      <webElementGuid>121a54e2-b519-48df-bab3-9cc47c78494e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div</value>
+      <webElementGuid>7228ee31-d4bd-4bca-82aa-1f98bbf5f766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Following' or . = 'Following')]</value>
+      <webElementGuid>6b137d17-1cd4-4777-9f06-dd2373fb22ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Abhishek Tr</name>
+   <tag></tag>
+   <elementGuidId>0e3aeb90-789d-4ee6-946f-287347918703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.q-flex.qu-alignItems--flex-start.qu-justifyContent--space-between</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e795eae1-c632-4d42-9186-115a53629445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-flex qu-alignItems--flex-start qu-justifyContent--space-between</value>
+      <webElementGuid>9d38cc6e-1d6c-4e9f-96b4-7c86e48ea0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abhishek Tr</value>
+      <webElementGuid>50eaae18-abec-41f6-83b1-0de1be7b77e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;q-flex qu-flexDirection--column&quot;]/div[@class=&quot;q-flex qu-alignItems--flex-start&quot;]/div[@class=&quot;q-flex qu-flexDirection--column&quot;]/div[@class=&quot;q-flex qu-alignItems--flex-start qu-justifyContent--space-between&quot;]</value>
+      <webElementGuid>238a50f8-48b9-4731-b5fc-df4c5159d8e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div/div/div[2]/div</value>
+      <webElementGuid>6eaf517e-4e38-4b9a-b030-3379b6069392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>34904893-baed-4360-a6a8-a312a5f5ced6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Abhishek Tr' or . = 'Abhishek Tr')]</value>
+      <webElementGuid>b3732865-eb1f-4c1a-b8a5-ca64fe4444f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

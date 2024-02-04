@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_68.9K Followers</name>
+   <tag></tag>
+   <elementGuidId>5af20931-6112-478c-956c-3ed7f4abcf55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a24444d6-2481-4e38-94c9-e278d202337c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-text qu-dynamicFontSize--small qu-medium</value>
+      <webElementGuid>c015fc47-fe98-42bc-bf8a-78d33920681f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>68.9K Followers</value>
+      <webElementGuid>ce87ec03-8ec6-4d57-9d8a-f5b7cf979488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;q-box qu-mt--small&quot;]/div[@class=&quot;q-box qu-bg--white&quot;]/div[@class=&quot;q-box qu-borderBottom qu-bg--white&quot;]/div[@class=&quot;q-box&quot;]/div[@class=&quot;q-box qu-overflowX--hidden qu-whiteSpace--nowrap&quot;]/div[@class=&quot;q-click-wrapper qu-display--inline-block qu-tapHighlight--white qu-textAlign--left qu-cursor--pointer ClickWrapper___StyledClickWrapperBox-zoqi4f-0 iyYUZT&quot;]/div[@class=&quot;q-text  qu-textAlign--center qu-py--medium qu-px--small qu-color--gray_light qu-hover--cursor--pointer qu-hover--bg--darken qu-hover--color--gray&quot;]/div[@class=&quot;q-relative qu-display--flex&quot;]/div[@class=&quot;q-text qu-dynamicFontSize--small qu-medium&quot;]</value>
+      <webElementGuid>8d63ff85-deee-4d9d-8c6f-e21ffe96db11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div[2]/div/div[3]/div/div/div[5]/div/div/div</value>
+      <webElementGuid>25da9f47-ddff-4102-a21e-4647d21f1a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>3553255a-82c7-44d3-b2fa-f4137a64d64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '68.9K Followers' or . = '68.9K Followers')]</value>
+      <webElementGuid>4a0d53ab-4d26-4fdd-8da8-f1b28bb9daef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
