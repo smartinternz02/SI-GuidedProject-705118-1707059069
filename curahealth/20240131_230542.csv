@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+footer_links,Firefox 122.0,,,31-01-2024 23:05:59,31-01-2024 23:06:26,26.903s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Footer_links_005,Firefox 122.0,,,31-01-2024 23:05:59,31-01-2024 23:06:25,25.482s,PASSED
+"openBrowser("""")",Firefox 122.0,,,31-01-2024 23:06:00,31-01-2024 23:06:05,5.553s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Firefox 122.0,,,31-01-2024 23:06:05,31-01-2024 23:06:20,14.784s,PASSED
+"click(findTestObject(""Object Repository/Cra_Footer/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85""))",Firefox 122.0,,,31-01-2024 23:06:20,31-01-2024 23:06:21,0.657s,PASSED
+"click(findTestObject(""Object Repository/Cra_Footer/Page_CURA Healthcare Service/li_(678) 813-1KMS""))",Firefox 122.0,,,31-01-2024 23:06:21,31-01-2024 23:06:21,0.476s,PASSED
+"click(findTestObject(""Object Repository/Cra_Footer/Page_CURA Healthcare Service/a_infokatalon.com""))",Firefox 122.0,,,31-01-2024 23:06:21,31-01-2024 23:06:22,1.012s,PASSED
+"click(findTestObject(""Object Repository/Cra_Footer/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x""))",Firefox 122.0,,,31-01-2024 23:06:22,31-01-2024 23:06:23,0.330s,PASSED
+"click(findTestObject(""Object Repository/Cra_Footer/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x""))",Firefox 122.0,,,31-01-2024 23:06:23,31-01-2024 23:06:23,0.504s,PASSED
+"click(findTestObject(""Object Repository/Cra_Footer/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x""))",Firefox 122.0,,,31-01-2024 23:06:23,31-01-2024 23:06:23,0.478s,PASSED
+closeBrowser(),Firefox 122.0,,,31-01-2024 23:06:23,31-01-2024 23:06:25,1.260s,PASSED
